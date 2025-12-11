@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 250">
+  <defs>
+    <linearGradient id="a" x1="73" x2="177" y1="10" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff8d0"/>
+      <stop offset=".42" stop-color="#ffe36d"/>
+      <stop offset="1" stop-color="#ffc20c"/>
+    </linearGradient>
+    <linearGradient id="b" x1="80" x2="177" y1="35" y2="218" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd52a"/>
+      <stop offset="1" stop-color="#ffac00"/>
+    </linearGradient>
+    <clipPath id="c">
+      <circle cx="125" cy="125" r="96"/>
+    </clipPath>
+  </defs>
+  <circle cx="125" cy="125" r="123" fill="url(#a)"/>
+  <circle cx="125" cy="125" r="116" fill="#ffc91c"/>
+  <circle cx="125" cy="125" r="108" fill="#fff0a7"/>
+  <circle cx="125" cy="125" r="101" fill="url(#b)" stroke="#f49a00" stroke-width="4"/>
+  <path fill="#fff" d="m106 26 31 2-40 194-30-13z" clip-path="url(#c)" opacity=".18"/>
+  <path fill="#ff8500" d="M102 101c4 12 12 20 25 24-13 4-21 12-25 25-4-13-12-21-26-25 14-4 22-12 26-24m49-23c3 11 11 19 22 23-11 4-19 12-22 23-4-11-12-19-23-23 11-4 19-12 23-23m-6 68c2 7 7 12 14 15-7 2-12 7-14 15q-4.5-12-15-15c7-3 12-8 15-15"/>
+</svg>

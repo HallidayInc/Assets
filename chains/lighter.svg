@@ -1,20 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="#000" viewBox="0 0 14 26">
- <g clip-path="url(#a)">
-  <g clip-path="url(#b)">
-   <g clip-path="url(#c)">
-    <path d="M5.989 20.388 0 25.498V5.888L5.989.502v19.886Zm7.811.012-5.989 5.098V17.85l5.989-5.37v7.92Z"/>
-   </g>
-  </g>
- </g>
- <defs>
-  <clipPath id="a">
-   <path d="M0 .5h13.8v25H0z"/>
-  </clipPath>
-  <clipPath id="b">
-   <path d="M0 .5h13.8v25H0z"/>
-  </clipPath>
-  <clipPath id="c">
-   <path d="M0 .502h13.8v24.996H0z"/>
-  </clipPath>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="black">
+  <path d="M13.5103 42.998L22.5937 35.2336V5L13.5103 13.1883V42.998Z" fill="#06060C"/>
+  <path d="M25.3625 42.9998L34.446 35.2504V23.2084L25.3625 31.3738V42.9998Z" />
 </svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 38 22.04" fill="none" preserveAspectRatio="xMidYMid meet">
+    <g clip-path="url(#zksync_clip0)">
+        <path d="M10.8089 0L0 10.8089L10.8089 21.6177V13.5111L21.6177 5.40444H10.8089V0Z" fill="#000000"/>
+        <path d="M37.8315 10.8088L27.0227 -4.3922e-05V8.10665L16.2137 16.2133H27.0227V21.6177L37.8315 10.8088Z" fill="#000000"/>
+    </g>
+    <defs>
+        <clipPath id="zksync_clip0">
+            <rect width="38" height="22.04" fill="white"/>
+        </clipPath>
+    </defs>
+</svg>

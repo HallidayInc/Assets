@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 48 48" fill="none">
+    <rect width="48" height="48" fill="#000000"/>
+    <defs>
+        <linearGradient id="solana-a" x1="7" y1="12" x2="41" y2="36" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#7C3CFF"/>
+            <stop offset="0.55" stop-color="#23E8A7"/>
+            <stop offset="1" stop-color="#00FFA3"/>
+        </linearGradient>
+        <linearGradient id="solana-b" x1="7" y1="19" x2="41" y2="43" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#9945FF"/>
+            <stop offset="0.55" stop-color="#14F195"/>
+            <stop offset="1" stop-color="#19FB9B"/>
+        </linearGradient>
+        <linearGradient id="solana-c" x1="7" y1="26" x2="41" y2="50" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#7C00FF"/>
+            <stop offset="0.55" stop-color="#8E5CFF"/>
+            <stop offset="1" stop-color="#28D2C4"/>
+        </linearGradient>
+    </defs>
+    <path d="M12 9.5H42L36 15.5H6L12 9.5Z" fill="url(#solana-a)"/>
+    <path d="M6 21H36L42 27H12L6 21Z" fill="url(#solana-b)"/>
+    <path d="M12 32.5H42L36 38.5H6L12 32.5Z" fill="url(#solana-c)"/>
+</svg>

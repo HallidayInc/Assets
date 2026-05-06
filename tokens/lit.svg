@@ -1,16 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 48 48" fill="none">
-    <rect width="48" height="48" fill="#0B0B0B"/>
-    <defs>
-        <filter id="lighter-glow" x="6" y="4" width="36" height="40" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-            <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-            <feGaussianBlur stdDeviation="3" result="effect1_foregroundBlur"/>
-        </filter>
-    </defs>
-    <g filter="url(#lighter-glow)" opacity="0.9">
-        <path d="M16.2 34.8V18.4L23 11.6V28L16.2 34.8Z" fill="#FFFFFF"/>
-        <path d="M27 37V25.6L33.1 19.5V30.9L27 37Z" fill="#FFFFFF"/>
-    </g>
-    <path d="M16.2 34.8V18.4L23 11.6V28L16.2 34.8Z" fill="#FFFFFF"/>
-    <path d="M27 37V25.6L33.1 19.5V30.9L27 37Z" fill="#FFFFFF"/>
+<svg id="lit" width="212" height="212" viewBox="0 0 212 212" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+    <radialGradient id="background" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(106 106) rotate(90) scale(138)">
+        <stop stop-color="#151515"/>
+        <stop offset="0.62" stop-color="#0B0B0B"/>
+        <stop offset="1" stop-color="#050505"/>
+    </radialGradient>
+    <filter id="whiteGlow" x="43" y="18" width="126" height="177" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+        <feGaussianBlur stdDeviation="7"/>
+    </filter>
+</defs>
+<circle cx="106" cy="106" r="106" fill="url(#background)"/>
+<g filter="url(#whiteGlow)" opacity="0.72">
+    <path d="M68 183V62L103 29V151L68 183Z" fill="#FFFFFF"/>
+    <path d="M113 183V136L148 103V151L113 183Z" fill="#FFFFFF"/>
+</g>
+<path d="M68 183V62L103 29V151L68 183Z" fill="#FFFFFF"/>
+<path d="M113 183V136L148 103V151L113 183Z" fill="#FFFFFF"/>
 </svg>

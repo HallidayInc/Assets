@@ -13,5 +13,8 @@
 	<stop  offset="0.8019" style="stop-color:#E65659"/>
 	<stop  offset="1" style="stop-color:#F2C241"/>
 </linearGradient>
+<circle fill="#FFFFFF" cx="250" cy="250" r="250"/>
+<g transform="translate(48.65 48.65) scale(0.8054)">
 <path class="st0" d="M250,435.3H1L374.5,64.7H499L250,435.3z"/>
+</g>
 </svg>

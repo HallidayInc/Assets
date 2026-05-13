@@ -1,6 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="black">
-  <path d="M12.9512 24.3316L24.0001 30.8651V6L12.9512 24.3316Z" />
-  <path d="M24 6V30.8651L35.0489 24.3316L24 6Z" />
-  <path d="M12.947 26.4275L23.9959 41.9999V32.9569L12.947 26.4275Z" />
-  <path d="M23.9958 32.9569V41.9999L35.0529 26.4275L23.9958 32.9569Z" />
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve">
+<polygon fill="#000000" points="250.5,7.304 397.98,250.362 250.5,190.342 "/>
+<polygon fill="#000000" points="102.39,250.362 249.5,7.304 249.5,190.342 "/>
+<polygon fill="#000000" points="249.5,340.535 102.39,251.862 249.5,191.842 "/>
+<polygon fill="#000000" points="397.98,251.862 250.5,191.842 250.5,340.535 "/>
+<polygon fill="#000000" points="250.5,372.329 397.98,284.597 250.5,493.13 "/>
+
+<polygon fill="#000000" points="249.5,372.329 102.39,284.597 249.5,493.13 "/>
 </svg>

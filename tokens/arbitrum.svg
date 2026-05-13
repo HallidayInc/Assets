@@ -1,6 +1,4 @@
-<svg xmlns:xodm="http://www.corel.com/coreldraw/odm/2003"
-  xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" width="32" height="32" viewBox="0 0 48 48" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="Layer_1" width="32" height="32" viewBox="0 0 48 48" xml:space="preserve">
   <style type="text/css">
 	.st0{fill:none;}
 	.st1{fill:#213147;}
@@ -27,7 +25,7 @@
           <g>
             <path class="st3" d="M1250,155c6,0,12,2,17,5l918,530c11,6,17,18,17,30v1060c0,12-7,24-17,30l-918,530c-5,3-11,5-17,5       s-12-2-17-5l-918-530c-11-6-17-18-17-30V719c0-12,7-24,17-30l918-530c5-3,11-5,17-5l0,0V155z M1250,0c-33,0-65,8-95,25L237,555       c-59,34-95,96-95,164v1060c0,68,36,130,95,164l918,530c29,17,62,25,95,25s65-8,95-25l918-530c59-34,95-96,95-164V719       c0-68-36-130-95-164L1344,25c-29-17-62-25-95-25l0,0H1250z"></path>
           </g>
-          <polygon class="st1" points="642,2179 727,1947 897,2088 738,2234     "></polygon>
+          <polygon class="st1" points="642,2179 727,1947 897,2088 738,2234"></polygon>
           <g>
             <path class="st4" d="M1172,644H939c-17,0-33,11-39,27L401,2039l241,139l550-1507c5-14-5-28-19-28L1172,644z"></path>
             <path class="st4" d="M1580,644h-233c-17,0-33,11-39,27L738,2233l241,139l620-1701c5-14-5-28-19-28V644z"></path>

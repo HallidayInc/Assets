@@ -1,19 +1,17 @@
-<svg id="lit" width="212" height="212" viewBox="0 0 212 212" fill="none" xmlns="http://www.w3.org/2000/svg">
-<defs>
-    <radialGradient id="background" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(106 106) rotate(90) scale(138)">
-        <stop stop-color="#151515"/>
-        <stop offset="0.62" stop-color="#0B0B0B"/>
-        <stop offset="1" stop-color="#050505"/>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 212 212">
+  <defs>
+    <radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(90 0 106)scale(138)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#151515"/>
+      <stop offset=".62" stop-color="#0b0b0b"/>
+      <stop offset="1" stop-color="#050505"/>
     </radialGradient>
-    <filter id="whiteGlow" x="43" y="18" width="126" height="177" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-        <feGaussianBlur stdDeviation="7"/>
+    <filter id="b" width="126" height="177" x="43" y="18" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="7"/>
     </filter>
-</defs>
-<circle cx="106" cy="106" r="106" fill="url(#background)"/>
-<g filter="url(#whiteGlow)" opacity="0.72">
-    <path d="M68 183V62L103 29V151L68 183Z" fill="#FFFFFF"/>
-    <path d="M113 183V136L148 103V151L113 183Z" fill="#FFFFFF"/>
-</g>
-<path d="M68 183V62L103 29V151L68 183Z" fill="#FFFFFF"/>
-<path d="M113 183V136L148 103V151L113 183Z" fill="#FFFFFF"/>
+  </defs>
+  <circle cx="106" cy="106" r="106" fill="url(#a)"/>
+  <g fill="#fff" filter="url(#b)" opacity=".72">
+    <path d="M68 183V62l35-33v122zm45 0v-47l35-33v48z"/>
+  </g>
+  <path fill="#fff" d="M68 183V62l35-33v122zm45 0v-47l35-33v48z"/>
 </svg>

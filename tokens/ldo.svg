@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32">
+  <path fill="#fff" fill-rule="evenodd" d="M32 16c0-8.828-7.172-16-16-16S0 7.172 0 16s7.172 16 16 16 16-7.172 16-16" clip-rule="evenodd"/>
+  <g clip-path="url(#a)">
+    <path fill="url(#b)" d="m15.992 18.802-7.03-4.015-.192.294c-2.166 3.322-1.682 7.672 1.162 10.46 3.348 3.279 8.775 3.279 12.122 0 2.845-2.788 3.328-7.138 1.163-10.46l-.192-.295z"/>
+    <path fill="url(#c)" d="m16.001 9.832-6.06 3.465L16 16.758l6.057-3.46z" opacity=".6"/>
+    <path fill="url(#d)" d="m16.01 10.736-7.043 4.052 7.027 4.018 7.033-4.02z"/>
+    <path fill="url(#e)" d="m16.001 4.005-6.06 9.292L16 16.758z"/>
+    <path fill="url(#f)" d="m16.001 16.759 6.061-3.462L16.002 4z"/>
+  </g>
+  <defs>
+    <radialGradient id="b" cx="0" cy="0" r="1" gradientTransform="matrix(0 -11.4087 14.9106 0 15.986 28.006)" gradientUnits="userSpaceOnUse">
+      <stop offset=".204" stop-color="#56f2ff"/>
+      <stop offset="1" stop-color="#4a8cea"/>
+    </radialGradient>
+    <radialGradient id="c" cx="0" cy="0" r="1" gradientTransform="rotate(90.16 1.37 14.625)scale(3.45382 6.53887)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#eeff83"/>
+      <stop offset=".69" stop-color="#5699ec"/>
+    </radialGradient>
+    <radialGradient id="d" cx="0" cy="0" r="1" gradientTransform="rotate(90.16 .634 15.362)scale(4.02404 7.58752)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#56f2ff"/>
+      <stop offset="1" stop-color="#5699ec"/>
+    </radialGradient>
+    <linearGradient id="e" x1="12.971" x2="12.971" y1="4.005" y2="16.758" gradientUnits="userSpaceOnUse">
+      <stop offset=".377" stop-color="#ffe336"/>
+      <stop offset="1" stop-color="#13c0b6" stop-opacity=".7"/>
+    </linearGradient>
+    <linearGradient id="f" x1="19.032" x2="19.032" y1="4" y2="16.759" gradientUnits="userSpaceOnUse">
+      <stop offset=".409" stop-color="#ff7f72"/>
+      <stop offset="1" stop-color="#2978ef" stop-opacity=".7"/>
+    </linearGradient>
+    <clipPath id="a">
+      <path fill="#fff" d="M4 4h24v24H4z"/>
+    </clipPath>
+  </defs>
+</svg>
